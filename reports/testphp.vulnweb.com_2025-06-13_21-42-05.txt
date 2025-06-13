@@ -1,0 +1,54 @@
+Reconnaissance Report for: testphp.vulnweb.com
+Timestamp: 2025-06-13_21-42-05
+Resolved IP: 44.228.249.3
+============================================================
+
+═══════════════ WHOIS LOOKUP ═══════════════
+═══════════════ WHOIS LOOKUP ═══════════════
+{
+  "domain_name": "VULNWEB.COM",
+  "registrar": "EuroDNS S.A.",
+  "registrar_url": "http://www.EuroDNS.com",
+  "reseller": null,
+  "whois_server": "whois.eurodns.com",
+  "referral_url": null,
+  "updated_date": [
+    "2025-05-20 08:14:02",
+    "2025-05-21 15:16:31"
+  ],
+  "creation_date": [
+    "2010-06-14 07:50:29",
+    "2010-06-14 00:00:00"
+  ],
+  "expiration_date": [
+    "2026-06-14 07:50:29",
+    "2026-06-13 00:00:00"
+  ],
+  "name_servers": [
+    "NS1.EURODNS.COM",
+    "NS2.EURODNS.COM",
+    "NS3.EURODNS.COM",
+    "NS4.EURODNS.COM"
+  ],
+  "status": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "emails": [
+    "legalservices@eurodns.com",
+    "administrator@invicti.com"
+  ],
+  "dnssec": "unsigned",
+  "name": "Antevski Gjorgji",
+  "org": "Acunetix Limited",
+  "address": "Mirabilis Building Level 2, Triq L-Intornjatur",
+  "city": "Mriehel",
+  "state": null,
+  "registrant_postal_code": "CBD 3050",
+  "country": "MT"
+}
+============================================================
+
+═══════════════ DNS ENUMERATION ═══════════════
+═══════════════ DNS ENUMERATION ═══════════════
+End of report.
